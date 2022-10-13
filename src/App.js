@@ -11,7 +11,7 @@ import { networks } from "./utils/networks"
 const TWITTER_HANDLE = "Aaron53969568"
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`
 const tld = ".vibe"
-const CONTRACT_ADDRESS = "0x9ee0e55e3b9783d83f974339f37ca9978b863afc"
+const CONTRACT_ADDRESS = "0xba14C4Be737E9Fdc14d669d5Ab46863546502bF2"
 
 const App = () => {
     const [network, setNetwork] = useState("")
